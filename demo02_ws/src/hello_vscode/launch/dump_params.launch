@@ -1,0 +1,3 @@
+<launch>
+    <rosparam command="dump" file="$(find hello_vscode)/launch/dump_params.yaml" />
+</launch>

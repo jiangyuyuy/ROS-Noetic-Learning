@@ -1,0 +1,2 @@
+demo01_action
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/jy/demo05_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/jy/demo05_ws/install_isolated

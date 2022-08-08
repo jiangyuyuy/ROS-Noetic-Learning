@@ -1,0 +1,8 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <xacro:property name="PI" value="3.141592654" />
+    <xacro:property name="radius" value="0.03" />
+
+    <myUse1 name="${PI/2}" />
+    <myUse2 name="${radius*2}" />
+
+</robot>

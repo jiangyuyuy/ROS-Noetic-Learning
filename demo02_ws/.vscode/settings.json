@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jy/demo02_ws/devel/lib/python3/dist-packages",
+        "/home/jy/anaconda3/lib/python3.8/site-packages",
+        "/home/jy/anaconda3/envs/stable_baseline/lib/python3.7/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jy/anaconda3/lib/python3.8/site-packages",
+        "/home/jy/anaconda3/envs/stable_baseline/lib/python3.7/site-packages"
+    ],
+    "cmake.configureOnOpen": false,
+    "ros.distro": "noetic"
+}

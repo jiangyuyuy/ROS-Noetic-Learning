@@ -1,0 +1,2 @@
+demo01_action:demo02_dr:demo03_plugin
+-DCATKIN_DEVEL_PREFIX=/home/jy/demo05_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jy/demo05_ws/install -G Unix Makefiles

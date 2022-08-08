@@ -1,0 +1,8 @@
+prefix=/home/jy/demo05_ws/devel
+
+Name: CSDN01
+Description: Description of CSDN01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

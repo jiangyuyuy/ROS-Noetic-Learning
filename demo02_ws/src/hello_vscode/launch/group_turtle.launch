@@ -1,0 +1,12 @@
+<launch>
+    <group ns="first_turtle">
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle_GUI" />
+    <node pkg="turtlesim" type="turtle_teleop_key" name="turtle_key" />
+    <node pkg="hello_vscode" type="hello_vscode_c" name="hello" output="screen" />
+    </group>
+    <group ns="second_turtle">
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle_GUI" />
+    <node pkg="turtlesim" type="turtle_teleop_key" name="turtle_key" />
+    <node pkg="hello_vscode" type="hello_vscode_c" name="hello" output="screen" />
+    </group>
+</launch>

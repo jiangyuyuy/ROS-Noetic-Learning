@@ -1,0 +1,39 @@
+nh_bool: false
+nh_double: 3.14
+nh_int: 10000
+nh_map:
+  guo: huang
+  yuang: xiao
+nh_string: hello NodeHandle
+nh_vector:
+- zhangsan
+- "\u674E\u56DB"
+- "\u738B\u4E94"
+- "\u5B59\u5927\u8111\u888B"
+param_bool: false
+param_double: 3.14
+param_int: 20000
+param_map:
+  guo: huang
+  yuang: xiao
+param_string: Hello Param
+param_vector:
+- zhangsan
+- "\u674E\u56DB"
+- "\u738B\u4E94"
+- "\u5B59\u5927\u8111\u888B"
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_ubuntu20__45095: http://ubuntu20:45095/
+    host_ubuntu20__45761: http://ubuntu20:45761/
+rosversion: '1.15.14
+
+  '
+run_id: 8cada4be-030c-11ed-bed9-139a2c82fcd2
+turtlesim:
+  background_b: 255
+  background_g: 255
+  background_r: 255

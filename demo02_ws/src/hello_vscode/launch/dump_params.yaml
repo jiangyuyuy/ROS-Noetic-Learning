@@ -1,0 +1,23 @@
+bg_B: 255
+bg_G: 0
+bg_R: 0
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_ros__35121: http://ros:35121/
+    host_ros__36683: http://ros:36683/
+rosversion: '1.15.14
+
+  '
+run_id: c164fe82-ec82-11ec-b7d6-7b58fdce8f23
+set_param1: 1000
+turtle_GUI:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 255
+  bg_G: 255
+  bg_R: 0
+  set_param2: 10

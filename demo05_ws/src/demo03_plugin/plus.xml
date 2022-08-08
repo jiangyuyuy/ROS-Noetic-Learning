@@ -1,0 +1,11 @@
+<!-- 插件库的相对路径 -->
+<library path="lib/libplus">
+  <!-- type="插件类" base_class_type="基类" -->
+  <class type="dbx_plugins_ns::SanBian" base_class_type="dbx_base_ns::Dbx_Base">
+    <!-- 描述信息 -->
+    <description>This is a triangle plugin.</description>
+  </class>
+  <class type="dbx_plugins_ns::SiBian" base_class_type="dbx_base_ns::Dbx_Base">
+    <description>This is a square plugin.</description>
+  </class>
+</library>

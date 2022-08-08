@@ -1,0 +1,13 @@
+len: 10
+na: jaingyu
+name: jy
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_ros__41383: http://ros:41383/
+rosversion: '1.15.14
+
+  '
+run_id: 45d85104-e7a7-11ec-b7d6-7b58fdce8f23
